@@ -1,6 +1,8 @@
-# Monokai Portfolio
+# Len Lester's Portfolio
 
-This is an open-source template portfolio that uses Monokai theme that anyone can clone, fork and modify to their liking.
+This is my portfolio website. I wanted to keep it simple and list the things that I've done in the past with links to my resume and other socials.
+
+I chose Monokai as the theme for the site.
 
 ### Stack
 
@@ -22,7 +24,7 @@ npm run dev
 - Update meta tags in `index.html`.
   - (optional) Update the `porfolio_icon.svg` to the letter of your liking. Or use your own svg as your favicon.
 - Add your resume to `/public/`.
-
+- This repo has Vercel Analytics so remove that if you don't want or need it.
 - Update `/src/constants.tsx`. Everything can be updated from this file. You can add new projects, experience and update all links and resume references. I am adding the TypeScript interfaces below to get an idea of every object.
 
 ```javascript
