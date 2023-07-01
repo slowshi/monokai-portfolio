@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .monokai-bg-white {
+    background-color: #f8f8f8;
+  }
+  .monokai-bg-gray {
+    background-color: #797979;
+  }
+  .monokai-bg-black-1 {
+    background-color: #1e201b;
+  }
+  .monokai-bg-black-2 {
+    background-color: #2e2e2e;
+  }
+  .monokai-bg-red {
+    background-color: #f82872;
+  }
+  .monokai-bg-green {
+    background-color: #a6e22e;
+  }
+  .monokai-bg-blue {
+    background-color: #64d5e9;
+  }
+  .monokai-bg-orange {
+    background-color: #fc971f;
+  }
+  .monokai-bg-yellow {
+    background-color: #e5da74;
+  }
+  .monokai-bg-purple {
+    background-color: #ae81ff;
+  }
+  .monokai-bg-pink {
+    background-color: #da70d5;
+  }
+  .monokai-white {
+    color: #f8f8f8;
+  }
+  .monokai-gray {
+    color: #797979;
+  }
+  .monokai-black-1 {
+    color: #1e201b;
+  }
+  .monokai-black-2 {
+    color: #2e2e2e;
+  }
+  .monokai-red {
+    color: #f82872;
+  }
+  .monokai-green {
+    color: #a6e22e;
+  }
+  .monokai-blue {
+    color: #64d5e9;
+  }
+  .monokai-orange {
+    color: #fc971f;
+  }
+  .monokai-yellow {
+    color: #e5da74;
+  }
+  .monokai-purple {
+    color: #ae81ff;
+  }
+  .monokai-pink {
+    color: #da70d5;
+  }
+}
+
+body {
+  background-color: #1e201b;
+  color: #f5f5f5;
+}
