@@ -43,7 +43,7 @@ function App() {
       </div>
 
       {/* About */}
-      <h1 className="text-center text-7xl sm:text-9xl font-bold mb-2 name-header">{info.name}</h1>
+      <h1 className="text-center text-5xl lg:text-7xl sm:text-9xl font-bold mb-2 name-header">{info.name}</h1>
       <h3 className="text-center text-2xl mb-2 monokai-yellow">{info.title}</h3>
       <p className="text-center mb-2 monokai-white">{info.location}</p>
       <div className="text-center mb-20">
