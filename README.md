@@ -21,7 +21,9 @@ npm ci
 npm run dev
 ```
 
-- Add your resume to `/public/`
+- Update meta tags in `index.html`.
+  - (optional) Update the `porfolio_icon.svg` to the letter of your liking. Or use your own svg as your favicon.
+- Add your resume to `/public/`.
 
 - Update `/src/constants.tsx`. Everything can be updated from this file. You can add new projects, experience and update all links and resume references. I am adding the TypeScript interfaces below to get an idea of every object.
 
