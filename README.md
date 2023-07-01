@@ -1,8 +1,6 @@
-# Len Lester's Portfolio
+# Monokai Portfolio
 
-This is my portfolio website. I wanted to keep it simple and list the things that I've done in the past with links to my resume and other socials.
-
-I chose Monokai as the theme for the site.
+This is an open-source template portfolio that uses Monokai theme that anyone can clone, fork and modify to their liking.
 
 ### Stack
 
