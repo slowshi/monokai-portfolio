@@ -36,7 +36,7 @@ export const info: Info = {
   title: 'Programmer',
   location: 'Earth',
   description: 'Stay hungry, stay foolish.',
-  github: 'https://github.com/',
+  github: 'https://github.com/slowshi/monokai-portfolio',
   linkedin: 'https://www.linkedin.com/',
   email: 'example@example.com',
   resume: '/resume/monokai_resume.pdf',
@@ -68,7 +68,7 @@ export const experience: ExperienceItem[] = [
 export const projects: ProjectItem[] = [
   {
     title: 'Bitcoin',
-    description: 'Made digital Gold that can be transacted anywhere.',
+    description: 'Made digital gold that can be sent anywhere.',
     stack: ['C++'],
     image: '/Bitcoin.png',
     imageAlt: 'Bitcoin',
