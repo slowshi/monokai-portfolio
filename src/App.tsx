@@ -47,13 +47,13 @@ function App() {
       <h3 className="text-center text-2xl mb-2 monokai-yellow">{info.title}</h3>
       <p className="text-center mb-2 monokai-white">{info.location}</p>
       <div className="text-center mb-20">
-        <Link href={`${info.github}`} target="_blank">
+        <Link href={`${info.github}`} target="_blank" label="GitHub">
           <FiGithub></FiGithub>
         </Link>
-        <Link href={`${info.linkedin}`} target="_blank">
+        <Link href={`${info.linkedin}`} target="_blank" label="LinkedIn">
           <FiLinkedin></FiLinkedin>
         </Link>
-        <Link href={`mailto:${info.email}`}>
+        <Link href={`mailto:${info.email}`} label="Email">
           <FiMail></FiMail>
         </Link>
       </div>
@@ -82,13 +82,13 @@ function App() {
         Contact
       </h1>
       <div className="mb-40 text-center">
-        <Link href={`${info.github}`} target="_blank">
+        <Link href={`${info.github}`} target="_blank" label="GitHub">
           <FiGithub className="text-2xl"></FiGithub>
         </Link>
-        <Link href={`${info.linkedin}`} target="_blank">
+        <Link href={`${info.linkedin}`} target="_blank" label="LinkedIn">
           <FiLinkedin className="text-2xl"></FiLinkedin>
         </Link>
-        <Link href={`mailto:${info.email}`}>
+        <Link href={`mailto:${info.email}`} label="Email">
           <FiMail className="text-2xl"></FiMail>
         </Link>
       </div>
