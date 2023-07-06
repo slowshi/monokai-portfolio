@@ -76,4 +76,14 @@ export const projects: ProjectItem[] = [
     link: 'https://ftx.com/',
     github: 'https://github.com/',
   },
+  {
+    title: 'Monokai Portfolio Template',
+    description: 'I made a template for this portfolio site for others to use.',
+    date: '2023',
+    stack: ['ReactJS', 'Tailwind', 'HTML', 'CSS', 'TypeScript'],
+    image: '/monokai_portfolio.png',
+    imageAlt: 'Monokai Portfolio',
+    link: 'https://monokai-portfolio.vercel.app/',
+    github: 'https://github.com/slowshi/monokai-portfolio',
+  },
 ]
