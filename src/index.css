@@ -7,71 +7,71 @@
     background-color: #f8f8f8;
   }
   .monokai-bg-gray {
-    background-color: #797979;
+    background-color: #f2e7ea;
   }
   .monokai-bg-black-1 {
-    background-color: #1e201b;
+    background-color: #918181;
   }
   .monokai-bg-black-2 {
-    background-color: #2e2e2e;
+    background-color: #ad9999;
   }
   .monokai-bg-red {
-    background-color: #f82872;
+    background-color: #ffc2df;
   }
   .monokai-bg-green {
-    background-color: #a6e22e;
+    background-color: #79e8b3;
   }
   .monokai-bg-blue {
-    background-color: #64d5e9;
+    background-color: #99e2ff;
   }
   .monokai-bg-orange {
-    background-color: #fc971f;
+    background-color: #ffcc99;
   }
   .monokai-bg-yellow {
-    background-color: #e5da74;
+    background-color: #ffe98a;
   }
   .monokai-bg-purple {
-    background-color: #ae81ff;
+    background-color: #a4a4f4;
   }
   .monokai-bg-pink {
-    background-color: #da70d5;
+    background-color: #ffa4d4;
   }
   .monokai-white {
     color: #f8f8f8;
   }
   .monokai-gray {
-    color: #797979;
+    color: #f2e7ea;
   }
   .monokai-black-1 {
-    color: #1e201b;
+    color: #918181;
   }
   .monokai-black-2 {
-    color: #2e2e2e;
+    color: #ad9999;
   }
   .monokai-red {
-    color: #f82872;
+    color: #ffc2df;
   }
   .monokai-green {
-    color: #a6e22e;
+    color: #79e8b3;
   }
   .monokai-blue {
-    color: #64d5e9;
+    color: #99e2ff;
   }
   .monokai-orange {
-    color: #fc971f;
+    color: #ffcc99;
   }
   .monokai-yellow {
-    color: #e5da74;
+    color: #ffe98a;
   }
   .monokai-purple {
-    color: #ae81ff;
+    color: #a4a4f4;
   }
   .monokai-pink {
-    color: #da70d5;
+    color: #ffa4d4;
   }
 }
 
 body {
-  background-color: #1e201b;
+  background-color: #918181;
   color: #f5f5f5;
 }

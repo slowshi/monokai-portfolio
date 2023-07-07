@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Menlo', 'sans-serif'],
+        sans: ['Chalkboard SE', 'sans-serif'],
       },
     },
   },
